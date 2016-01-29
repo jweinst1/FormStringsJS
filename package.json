@@ -1,0 +1,18 @@
+{
+  "name": "formstringsjs",
+  "version": "1.0.0",
+  "description": "A simply, straightforward way to make template strings in JavaScript.",
+  "main": "Formats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "strings",
+    "formatting",
+    "format",
+    "strings"
+  ],
+  "author": "Joshua Weinstein <jweinst1@berkeley.edu> (https://github.com/jweinst1)",
+  "license": "MIT"
+}
