@@ -42,5 +42,6 @@ var replacevars = (function () {
 
 //main function for template strings
 function FormString(string, obj) {
-    return replacevars.replacevar(string, obj);
+    if(findvars.checkduplicates(string)) return replacevars.replacevar(string, obj);
+    else throw "You have a duplicate bracket in the string";
 }

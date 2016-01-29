@@ -14,5 +14,9 @@
     "strings"
   ],
   "author": "Joshua Weinstein <jweinst1@berkeley.edu> (https://github.com/jweinst1)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/jweinst1/FormStringsJS"
+  }
 }
